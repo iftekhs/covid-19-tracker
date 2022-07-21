@@ -1,0 +1,15 @@
+.footer {
+   
+    border-top: 10px solid;
+    border-Left: 10px solid;
+    border-right: 10px solid;
+    border-bottom: 10px solid;
+    border-color: red;
+    border-left-color: greenyellow;
+    border-right-color: red;
+    border-bottom-color: greenyellow;
+  margin-top: 20px;
+}
+.safety {
+    color:#28abb9;
+}
